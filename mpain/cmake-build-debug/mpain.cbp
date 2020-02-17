@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="mpain"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mpain">
+				<Option output="/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/mpain" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/jsoncpp"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/Users/Andreas/dat220g19h/project/mpain/C:/dev/libs/jsoncpp/include/jsoncpp"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 mpain"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mpain/fast">
+				<Option output="/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/mpain" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/jsoncpp"/>
+					<Add directory="/usr/include/jsoncpp"/>
+					<Add directory="/Users/Andreas/dat220g19h/project/mpain/C:/dev/libs/jsoncpp/include/jsoncpp"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 mpain/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Andreas/dat220g19h/project/mpain/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Animation/AnimatedSprite.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Animation/AnimatedSprite.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Animation/Animation.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Animation/Animation.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Configurations/ButtonConfig.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Configurations/Configuration.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Game/Boss.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Game/Boss.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Game/GameData.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Game/GameData.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Game/Load.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Game/Load.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Game/Player.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Game/Player.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Game/PlayerAnimation.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Game/PlayerAnimation.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Game/stateGame.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Game/stateGame.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Menu/stateMenu.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Menu/stateMenu.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Scoreboard/stateScoreboard.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Scoreboard/stateScoreboard.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Settings/settingsbutton.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Settings/stateSettings.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Settings/stateSettings.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Sound/LoadSound.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Sound/LoadSound.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Sound/Music.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Sound/Music.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Sound/SoundClip.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/Sound/SoundClip.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/machine.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/machine.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/main.cpp">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/state.h">
+			<Option target="mpain"/>
+		</Unit>
+		<Unit filename="/Users/Andreas/dat220g19h/project/mpain/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
